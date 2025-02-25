@@ -1,0 +1,13 @@
+name = "Better Ores 3D"
+filename = "§bBetter§3Ores§f-§91.20§0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f3ed9d9ce89a74fcc622723f1f0d8c77bb80885d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4672800
+project-id = 855573

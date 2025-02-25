@@ -1,0 +1,11 @@
+name = "Goon Time"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c91a6411c6036432e4efc8110bb1b7d29b433ccb29b0ca6c91b2fc1d78ed7044"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.20.1"
